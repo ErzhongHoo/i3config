@@ -218,4 +218,6 @@ exec_always --no-startup-id kmix
 exec /home/ezhonghu/.config/i3/xset_keyboard_faster.sh
 exec /home/ezhonghu/.config/i3/keyboeard_remap.sh
 #exec /home/ezhonghu/.config/i3/hdmi_screen_above.sh
+exec /home/ezhonghu/.screenlayout/xrandr_ezhonghu.sh
+
 
