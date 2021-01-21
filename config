@@ -207,7 +207,7 @@ bindcode 232 exec /home/ezhonghu/.config/i3/brightnessdown.sh
 
 #开机自启动项目
 exec_always --no-startup-id compton     #透明渲染
-exec_always --no-startup-id feh --bg-scale ~/Pictures/brigitta-schneiter.jpg     #壁纸渲染
+exec_always --no-startup-id feh --bg-scale ~/Pictures/Ocean_by_Shu_Le.jpg
 exec_always --no-startup-id nutstore        #坚果云自启动
 exec_always --no-startup-id fcitx5       #输入法自启动
 exec_always --no-startup-id redshift        #护眼自启动
