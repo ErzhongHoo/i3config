@@ -222,7 +222,7 @@ exec_always --no-startup-id fcitx5       #输入法自启动
 #exec_always --no-startup-id mate-power-manager
 exec /home/ezhonghu/.config/i3/touchpad.sh
 exec_always --no-startup-id kmix  #右下角有声音标志并且可调(自启动)
-exec_always --no-startup-id /home/ezhonghu/.config/polybar/launch.sh
+#exec_always --no-startup-id /home/ezhonghu/.config/polybar/launch.sh
 exec /home/ezhonghu/.config/i3/xset_keyboard_faster.sh
 exec /home/ezhonghu/.config/i3/keyboeard_remap.sh
 #exec /home/ezhonghu/.config/i3/hdmi_screen_above.sh
