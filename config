@@ -212,6 +212,10 @@ bindcode 123 exec amixer set Master 5%+
 bindcode 122 exec amixer set Master 5%-
 bindcode 121 exec amixer set Master toggle
 
+# 切换回上一个窗口
+bindsym Mod1+Tab workspace next
+bindsym Mod1+Shift+Tab workspace prev
+
 
 #开机自启动项目
 exec_always --no-startup-id compton     #透明渲染
